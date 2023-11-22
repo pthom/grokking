@@ -3,4 +3,4 @@ model.pth
 accuracy.png
 loss.png
 intermediary/
-venv/
+venv*/
