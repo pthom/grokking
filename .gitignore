@@ -1,0 +1,6 @@
+model.pth
+*.mp4
+accuracy.png
+loss.png
+intermediary/
+venv/
