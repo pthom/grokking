@@ -1,3 +1,5 @@
+> _The original author of this is David Louapre (https://scienceetonnante.substack.com/p/grokking-les-modeles-dia-sont-ils)_
+
 # Grokking with a simple embedding + feedfoward network on modular addition
 
 Grokking is a new phenomenon in deep learning where some models exhibit a (very) late generalisation phase, after an initial phase of very strong over-fitting.
