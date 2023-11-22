@@ -4,3 +4,4 @@ accuracy.png
 loss.png
 intermediary/
 venv*/
+.ipynb_checkpoints/
